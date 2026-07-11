@@ -13,7 +13,7 @@
 
   ### 🔬 What I Do
 
-  - **3GPP Layer 2 (MAC/RLC/PDCP)** — Designing lock-free, multi-core aware packet processing frameworks for 4G/5G NR
+  - **3GPP Layer 2** — Designing lock-free, multi-core aware packet processing frameworks for 4G/5G
   - **CPU Architecture & Performance Optimization** — Instruction sets, cache hierarchies, branch prediction,
   microarchitectural tuning
   - **WebRTC & Real-Time Communication** — Full-stack WebRTC: signaling, ICE/STUN/TURN, jitter buffer, adaptive
@@ -21,7 +21,7 @@
 
   ### 🛠️  Tech Stack
 
-  `C/C++` `Python` `Linux` `DPDK` `WebRTC` `5G NR`
+  `C/C++` `Python` `DPDK` `WebRTC` `5G NR`
 
   ### 📫 Reach Me
 
